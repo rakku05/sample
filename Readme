@@ -1,14 +1,1 @@
-##Need the .env Also
-ithuvium vennum da
-
-
-Delete the src that contain duplicate auditlogs and server.js inside backend 
-── src
-│   ├── controllers
-│   │   └── auditController.js
-│   ├── models
-│   │   └── auditLogs.js
-│   ├── utils
-│   │   └── audit.js
-│   └── server.js
-
+still it crashes
